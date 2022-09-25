@@ -1,0 +1,68 @@
+#userForm-container {
+    padding: 100px 20%;
+}
+
+#userForm-inner {
+    padding: 10% 10%;
+    border-radius: 20px;
+    border: solid 3px #0474db;
+}
+
+.userForm-field-container {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+}
+
+.userForm-field-container > input {
+    height: 30px;
+    border-radius: 20px;
+    padding: 5px 10px;
+    font-size: 18px;
+    font-weight: 400;
+    border: solid 2px #0474db;
+}
+
+#userForm-button-container {
+    padding-top: 20px;
+    text-align: center;
+}
+
+#userForm-button-container > button {
+    background-color: #0474db;
+    padding: 12px 30px;
+    border: solid 3px white;
+    border-radius: 20px;
+    font-size: 26px;
+    font-weight: 600;
+    color: white;
+}
+
+#userForm-button-container > button:hover {
+    border: solid 3px #0474db;
+    background-color: white;
+    color: #0474db;
+}
+
+label {
+    padding: 10px 0;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+@media only screen and (max-width: 600px) {
+
+    #userForm-container {
+        padding: 50px 10%;
+    }
+
+    .userForm-field-container {
+        margin-bottom: 10px;
+    }
+
+    #userForm-button-container > button {
+        padding: 12px 30px;
+        font-size: 20px;
+    }
+  
+}

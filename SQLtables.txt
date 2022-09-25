@@ -1,0 +1,114 @@
+CREATE TABLE videogames (
+
+    videogame_id serial PRIMARY KEY,
+    type varchar(255) NOT NULL,
+    title varchar(255) NOT NULL,
+    developer varchar(255) NOT NULL,
+    publisher varchar(255) NOT NULL,
+    base_price numeric NOT NULL CHECK (base_price >= 0),
+    discounted_price numeric CHECK (discounted_price >= 0 AND discounted_price < base_price),
+    discount_end_date varchar(255),
+    cover bytea,
+    description text,
+    release_date varchar(255)
+
+)
+
+CREATE TABLE systems(
+
+    system_id serial PRIMARY KEY,
+    videogame_id integer REFERENCES videogames(videogame_id) ON DELETE CASCADE,
+    system varchar(255) NOT NULL CHECK (system = 'Windows' OR system = 'MacOS' OR system = 'Linux'),
+    UNIQUE (videogame_id, system)
+    
+)
+
+CREATE TABLE subtitles(
+
+    subtitle_id serial PRIMARY KEY,
+    videogame_id integer REFERENCES videogames(videogame_id) ON DELETE CASCADE,
+    subtitle varchar(255) NOT NULL,
+    UNIQUE (videogame_id, subtitle)
+   
+)
+
+CREATE TABLE languages(
+
+    language_id serial PRIMARY KEY,
+    videogame_id integer REFERENCES videogames(videogame_id) ON DELETE CASCADE,
+    language varchar(255) NOT NULL,
+    UNIQUE (videogame_id, language)
+   
+)
+
+CREATE TABLE contents(
+
+    content_id serial PRIMARY KEY,
+    videogame_id integer REFERENCES videogames(videogame_id) ON DELETE CASCADE,
+    content varchar(255) NOT NULL,
+    UNIQUE (videogame_id, content)
+   
+)
+
+CREATE TABLE categories(
+
+    category_id serial PRIMARY KEY,
+    videogame_id integer REFERENCES videogames(videogame_id) ON DELETE CASCADE,
+    category varchar(255) NOT NULL,
+    UNIQUE (videogame_id, category)
+   
+)
+
+CREATE TABLE game_referenced(
+
+    reference_id serial PRIMARY KEY,
+    videogame_id integer REFERENCES videogames(videogame_id) ON DELETE CASCADE,
+    reference integer REFERENCES videogames(videogame_id) ON DELETE CASCADE,
+    UNIQUE (videogame_id, reference)
+   
+)
+
+----------------------------------------------------------------------------------------------
+
+CREATE TABLE videogames (
+
+    videogame_id serial PRIMARY KEY,
+    type varchar(255) NOT NULL,
+    title varchar(255) NOT NULL,
+    developer varchar(255) NOT NULL,
+    publisher varchar(255) NOT NULL,
+    base_price numeric NOT NULL CHECK (base_price >= 0),
+    lowest_price numeric CHECK (lowest < base_price)
+    current_discounted_price numeric CHECK (current_discounted_price >= 0 AND current_discounted_price < base_price),
+    current_discount_end_date varchar(255),
+    cover bytea,
+    description text,
+    release_date varchar(255)
+
+)
+
+CREATE TABLE prices_history
+(
+    price_id serial PRIMARY KEY,
+    videogame_id integer REFERENCES videogames(videogame_id) ON DELETE CASCADE,
+    price numeric NOT NULL,
+    start_date varchar(255) NOT NULL ,
+    end_date varchar(255) NOT NULL
+)
+
+----------------------------------------------------------------------------------------------------------
+
+CREATE TABLE vpt_users(
+	
+	user_id serial PRIMARY KEY,
+	email varchar(255) NOT NULL UNIQUE,
+	password varchar(255) NOT NULL 
+)
+
+CREATE TABLE user_list(
+
+	user_list_id serial PRIMARY KEY,
+	user_id int REFERENCES vpt_users(user_id) ON DELETE CASCADE ,
+	videogame_id int REFERENCES videogames(videogame_id) ON DELETE CASCADE
+
+)

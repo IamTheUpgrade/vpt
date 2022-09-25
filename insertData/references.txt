@@ -1,0 +1,119 @@
+Cult of the Lamb=Cult of the Lamb: Cultist Edition
+
+---
+
+Cult of the Lamb: Cultist Edition=Cult of the Lamb
+
+---
+
+Spyro Reignited Trilogy=Spyro + Crash Remastered Game Bundle
+
+---
+
+Spyro + Crash Remastered Game Bundle=Spyro Reignited Trilogy,Crash Bandicoot N. Sane Trilogy
+
+---
+
+Crash Bandicoot N. Sane Trilogy=Spyro + Crash Remastered Game Bundle
+
+---
+
+The Witcher 3: Wild Hunt=The Witcher 3: Wild Hunt - Expansion Pass,The Witcher 3: Wild Hunt - Hearts of Stone,The Witcher 3: Wild Hunt - Blood and Wine,The Witcher 3: Wild Hunt - Game of the Year Edition
+
+---
+
+The Witcher 3: Wild Hunt - Expansion Pass=The Witcher 3: Wild Hunt,The Witcher 3: Wild Hunt - Hearts of Stone,The Witcher 3: Wild Hunt - Blood and Wine,The Witcher 3: Wild Hunt - Game of the Year Edition
+
+---
+
+The Witcher 3: Wild Hunt - Hearts of Stone=The Witcher 3: Wild Hunt,The Witcher 3: Wild Hunt - Expansion Pass,The Witcher 3: Wild Hunt - Blood and Wine,The Witcher 3: Wild Hunt - Game of the Year Edition
+
+---
+
+The Witcher 3: Wild Hunt - Blood and Wine=The Witcher 3: Wild Hunt,The Witcher 3: Wild Hunt - Expansion Pass,The Witcher 3: Wild Hunt - Hearts of Stone,The Witcher 3: Wild Hunt - Game of the Year Edition
+
+---
+
+The Witcher 3: Wild Hunt - Game of the Year Edition=The Witcher 3: Wild Hunt,The Witcher 3: Wild Hunt - Expansion Pass,The Witcher 3: Wild Hunt - Hearts of Stone,The Witcher 3: Wild Hunt - Blood and Wine
+
+---
+
+Elden Ring=Elden Ring Deluxe Edition
+
+---
+
+Elden Ring Deluxe Edition=Elden Ring
+
+---
+
+Call of Duty: Black Ops III=Call of Duty: Black Ops III - Zombies Chronicles
+
+---
+
+Call of Duty: Black Ops III - Zombies Chronicles=Call of Duty: Black Ops III
+
+---
+
+Red Dead Redemption 2=Red Dead Redemption 2 Ultimate Edititon
+
+---
+
+Red Dead Redemption 2 Ultimate Edititon=Red Dead Redemption 2
+
+---
+
+Cuphead=Cuphead - Game & Soundtrack Bundle
+
+---
+
+Cuphead - Game & Soundtrack Bundle=Cuphead
+
+---
+
+Subnautica=Subnautica: Below Zero,Subnautica Deep Ocean Bundle
+
+---
+
+Subnautica: Below Zero=Subnautica,Subnautica Deep Ocean Bundle
+
+---
+
+Subnautica Deep Ocean Bundle=Subnautica,Subnautica: Below Zero
+
+---
+
+
+Dead by Daylight=Dead by Daylight: Ultimate Edition
+
+---
+
+Dead by Daylight: Ultimate Edition=Dead by Daylight
+
+---
+
+Resident Evil Village=Resident Evil 7 Biohazard,Resident Evil 4,Resident Evil 2,Resident Evil 3
+
+---
+
+Resident Evil 7 Biohazard=Resident Evil Village,Resident Evil 4,Resident Evil 2,Resident Evil 3
+
+---
+
+Resident Evil 4=Resident Evil 7 Biohazard,Resident Evil Village,Resident Evil 2,Resident Evil 3
+
+---
+
+
+Resident Evil 3=Resident Evil 7 Biohazard,Resident Evil Village,Resident Evil 2,Resident Evil 4
+
+---
+
+Resident Evil 2=Resident Evil 7 Biohazard,Resident Evil Village,Resident Evil 3,Resident Evil 4
+
+
+
+
+
+
+
+

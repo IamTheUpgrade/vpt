@@ -1,0 +1,39 @@
+#watchList-container {
+    padding: 100px 10% 0;
+}
+
+#watchlist-message {
+    text-align: center;
+    padding: 50px 10%;
+    background-color: rgb(248, 248, 248);
+    font-size: 16px;
+    color: rgb(141, 141, 141);
+}
+
+#watchlist-noGames {
+    font-size: 30px;
+    margin: 70px 0 0;
+    text-align: center;
+}
+
+@media only screen and (max-width: 768px) {
+
+    #watchList-container {
+        padding: 100px 5% 0;
+    }
+
+}
+
+@media only screen and (max-width: 768px) {
+
+    #watchList-container {
+        padding: 50px 3% 0;
+    }
+
+    #watchlist-noGames {
+        font-size: 18px;
+        margin: 120px 0 20px;
+        text-align: center;
+    }
+
+}

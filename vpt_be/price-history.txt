@@ -1,0 +1,831 @@
+F1 22--39.99--2022-08-01--2022-08-15
+---
+F1 22--29.99--2022-09-01--2022-09-15
+
+---
+
+Cult of the Lamb--14.99--2022-09-01--2022-09-18
+
+---
+
+Cult of the Lamb: Cultist Edition--19.99--2022-09-01--2022-09-18
+
+---
+
+Spyro Reignited Trilogy--34.99--2020-02-01--2020-03-01
+---
+Spyro Reignited Trilogy--20.99--2020-04-17--2020-04-24
+---
+Spyro Reignited Trilogy--26.99--2020-08-01--2020-09-01
+---
+Spyro Reignited Trilogy--17.99--2021-01-01--2021-01-15
+---
+Spyro Reignited Trilogy--23.99--2021-06-01--2021-03-01
+---
+Spyro Reignited Trilogy--29.99--2021-10-15--2021-10-30
+---
+Spyro Reignited Trilogy--13.50--2022-02-01--2022-03-01
+---
+Spyro Reignited Trilogy--25.99--2022-05-01--2022-06-01
+
+---
+
+Spyro + Crash Remastered Game Bundle--64.99--2020-01-01--2020-02-01
+---
+Spyro + Crash Remastered Game Bundle--49.99--2020-04-17--2020-05-01
+---
+Spyro + Crash Remastered Game Bundle--54.99--2020-06-23--2020-07-12
+---
+Spyro + Crash Remastered Game Bundle--34.99--2020-11-13--2020-12-05
+---
+Spyro + Crash Remastered Game Bundle--44.99--2021-04-01--2021-05-01
+---
+Spyro + Crash Remastered Game Bundle--49.99--2021-06-18--2021-07-01
+---
+Spyro + Crash Remastered Game Bundle--24.99--2021-10-15--2021-10-30
+---
+Spyro + Crash Remastered Game Bundle--44.99--2022-02-01--2022-03-01
+---
+Spyro + Crash Remastered Game Bundle--17.99--2022-05-01--2022-06-01
+
+---
+
+Crash Bandicoot N. Sane Trilogy--31.99--2018-12-01--2018-12-23
+---
+Crash Bandicoot N. Sane Trilogy--24.99--2019-05-01--2019-06-15
+---
+Crash Bandicoot N. Sane Trilogy--27.99--2019-08-15--2019-08-24
+---
+Crash Bandicoot N. Sane Trilogy--34.99--2020-02-01--2020-03-01
+---
+Crash Bandicoot N. Sane Trilogy--20.99--2020-04-17--2020-04-24
+---
+Crash Bandicoot N. Sane Trilogy--26.99--2020-08-01--2020-09-01
+---
+Crash Bandicoot N. Sane Trilogy--17.99--2021-01-01--2021-01-15
+---
+Crash Bandicoot N. Sane Trilogy--23.99--2021-06-01--2021-03-01
+---
+Crash Bandicoot N. Sane Trilogy--29.99--2021-10-15--2021-10-30
+---
+Crash Bandicoot N. Sane Trilogy--13.50--2022-02-01--2022-03-01
+---
+Crash Bandicoot N. Sane Trilogy--25.99--2022-05-01--2022-06-01
+
+---
+
+The Elder Scrolls V: Skyrim Special Edition--34.99--2017-02-01--2017-03-01
+---
+The Elder Scrolls V: Skyrim Special Edition--29.99--2017-06-15--2017-07-01
+---
+The Elder Scrolls V: Skyrim Special Edition--24.99--2017-09-01--2017-10-01
+---
+The Elder Scrolls V: Skyrim Special Edition--34.99--2018-06-14--2018-07-30
+---
+The Elder Scrolls V: Skyrim Special Edition--31.99--2018-12-01--2018-12-23
+---
+The Elder Scrolls V: Skyrim Special Edition--24.99--2019-05-01--2019-06-15
+---
+The Elder Scrolls V: Skyrim Special Edition--27.99--2019-08-15--2019-08-24
+---
+The Elder Scrolls V: Skyrim Special Edition--34.99--2020-02-01--2020-03-01
+---
+The Elder Scrolls V: Skyrim Special Edition--20.99--2020-04-17--2020-04-24
+---
+The Elder Scrolls V: Skyrim Special Edition--26.99--2020-08-01--2020-09-01
+---
+The Elder Scrolls V: Skyrim Special Edition--17.99--2021-01-01--2021-01-15
+---
+The Elder Scrolls V: Skyrim Special Edition--23.99--2021-06-01--2021-03-01
+---
+The Elder Scrolls V: Skyrim Special Edition--29.99--2021-10-15--2021-10-30
+---
+The Elder Scrolls V: Skyrim Special Edition--13.50--2022-02-01--2022-03-01
+---
+The Elder Scrolls V: Skyrim Special Edition--25.99--2022-05-01--2022-06-01
+
+---
+
+The Witcher 3: Wild Hunt--24.99--2015-11-01--2015-12-01
+---
+The Witcher 3: Wild Hunt--19.99--2016-06-15--2016-07-01
+---
+The Witcher 3: Wild Hunt--22.99--2016-09-01--2016-10-01
+---
+The Witcher 3: Wild Hunt--24.99--2017-02-01--2017-03-01
+---
+The Witcher 3: Wild Hunt--19.99--2017-06-15--2017-07-01
+---
+The Witcher 3: Wild Hunt--24.99--2017-09-01--2017-10-01
+---
+The Witcher 3: Wild Hunt--14.99--2018-06-14--2018-07-30
+---
+The Witcher 3: Wild Hunt--21.99--2018-12-01--2018-12-23
+---
+The Witcher 3: Wild Hunt--24.99--2019-05-01--2019-06-15
+---
+The Witcher 3: Wild Hunt--17.99--2019-08-15--2019-08-24
+---
+The Witcher 3: Wild Hunt--19.99--2020-02-01--2020-03-01
+---
+The Witcher 3: Wild Hunt--10.99--2020-04-17--2020-04-24
+---
+The Witcher 3: Wild Hunt--26.99--2020-08-01--2020-09-01
+---
+The Witcher 3: Wild Hunt--14.99--2021-01-01--2021-01-15
+---
+The Witcher 3: Wild Hunt--9.99--2021-06-01--2021-03-01
+---
+The Witcher 3: Wild Hunt--19.99--2021-10-15--2021-10-30
+---
+The Witcher 3: Wild Hunt--14.50--2022-02-01--2022-03-01
+---
+The Witcher 3: Wild Hunt--9.99--2022-05-01--2022-06-01
+
+---
+
+The Witcher 3: Wild Hunt - Expansion Pass--22.99--2015-11-01--2015-12-01
+---
+The Witcher 3: Wild Hunt - Expansion Pass--19.99--2016-06-15--2016-07-01
+---
+The Witcher 3: Wild Hunt - Expansion Pass--19.99--2016-09-01--2016-10-01
+---
+The Witcher 3: Wild Hunt - Expansion Pass--17.99--2017-02-01--2017-03-01
+---
+The Witcher 3: Wild Hunt - Expansion Pass--19.99--2017-06-15--2017-07-01
+---
+The Witcher 3: Wild Hunt - Expansion Pass--14.99--2017-09-01--2017-10-01
+---
+The Witcher 3: Wild Hunt - Expansion Pass--14.99--2018-06-14--2018-07-30
+---
+The Witcher 3: Wild Hunt - Expansion Pass--21.99--2018-12-01--2018-12-23
+---
+The Witcher 3: Wild Hunt - Expansion Pass--9.99--2019-05-01--2019-06-15
+---
+The Witcher 3: Wild Hunt - Expansion Pass--7.99--2019-08-15--2019-08-24
+---
+The Witcher 3: Wild Hunt - Expansion Pass--19.99--2020-02-01--2020-03-01
+---
+The Witcher 3: Wild Hunt - Expansion Pass--10.99--2020-04-17--2020-04-24
+---
+The Witcher 3: Wild Hunt - Expansion Pass--9.99--2020-08-01--2020-09-01
+---
+The Witcher 3: Wild Hunt - Expansion Pass--14.99--2021-01-01--2021-01-15
+---
+The Witcher 3: Wild Hunt - Expansion Pass--9.99--2021-06-01--2021-03-01
+---
+The Witcher 3: Wild Hunt - Expansion Pass--19.99--2021-10-15--2021-10-30
+---
+The Witcher 3: Wild Hunt - Expansion Pass--14.50--2022-02-01--2022-03-01
+---
+The Witcher 3: Wild Hunt - Expansion Pass--9.99--2022-05-01--2022-06-01
+
+---
+
+God Of War--39.99--2022-04-01--2022-05-01
+---
+God Of War--19.99--2022-07-01--2022-08-01
+
+---
+
+The Witcher 3: Wild Hunt - Hearts of Stone--7.99--2016-06-15--2016-07-01
+---
+The Witcher 3: Wild Hunt - Hearts of Stone--4.99--2017-02-01--2017-03-01
+---
+The Witcher 3: Wild Hunt - Hearts of Stone--7.99--2018-06-14--2018-07-30
+---
+The Witcher 3: Wild Hunt - Hearts of Stone--6.99--2018-12-01--2018-12-23
+---
+The Witcher 3: Wild Hunt - Hearts of Stone--4.99--2019-05-01--2019-06-15
+---
+The Witcher 3: Wild Hunt - Hearts of Stone--7.99--2020-04-17--2020-04-24
+---
+The Witcher 3: Wild Hunt - Hearts of Stone--5.99--2021-06-01--2021-03-01
+---
+The Witcher 3: Wild Hunt - Hearts of Stone--4.50--2022-02-01--2022-03-01
+---
+The Witcher 3: Wild Hunt - Hearts of Stone--2.99--2022-05-01--2022-06-01
+
+---
+
+The Witcher 3: Wild Hunt - Blood and Wine--14.99--2017-02-01--2017-03-01
+---
+The Witcher 3: Wild Hunt - Blood and Wine--12.99--2018-06-14--2018-07-30
+---
+The Witcher 3: Wild Hunt - Blood and Wine--7.99--2018-12-01--2018-12-23
+---
+The Witcher 3: Wild Hunt - Blood and Wine--11.99--2019-05-01--2019-06-15
+---
+The Witcher 3: Wild Hunt - Blood and Wine--10.99--2020-04-17--2020-04-24
+---
+The Witcher 3: Wild Hunt - Blood and Wine--13.99--2021-06-01--2021-03-01
+---
+The Witcher 3: Wild Hunt - Blood and Wine--18.50--2022-02-01--2022-03-01
+---
+The Witcher 3: Wild Hunt - Blood and Wine--4.99--2022-05-01--2022-06-01
+
+---
+
+The Witcher 3: Wild Hunt - Game of the Year Edition--44.99--2017-02-01--2017-03-01
+---
+The Witcher 3: Wild Hunt - Game of the Year Edition--39.99--2017-06-15--2017-07-01
+---
+The Witcher 3: Wild Hunt - Game of the Year Edition--34.99--2017-09-01--2017-10-01
+---
+The Witcher 3: Wild Hunt - Game of the Year Edition--24.99--2018-06-14--2018-07-30
+---
+The Witcher 3: Wild Hunt - Game of the Year Edition--29.99--2018-12-01--2018-12-23
+---
+The Witcher 3: Wild Hunt - Game of the Year Edition--44.99--2019-05-01--2019-06-15
+---
+The Witcher 3: Wild Hunt - Game of the Year Edition--17.99--2019-08-15--2019-08-24
+---
+The Witcher 3: Wild Hunt - Game of the Year Edition--29.99--2020-02-01--2020-03-01
+---
+The Witcher 3: Wild Hunt - Game of the Year Edition--19.99--2020-04-17--2020-04-24
+---
+The Witcher 3: Wild Hunt - Game of the Year Edition--16.99--2020-08-01--2020-09-01
+---
+The Witcher 3: Wild Hunt - Game of the Year Edition--14.99--2021-01-01--2021-01-15
+---
+The Witcher 3: Wild Hunt - Game of the Year Edition--9.99--2021-06-01--2021-03-01
+---
+The Witcher 3: Wild Hunt - Game of the Year Edition--19.99--2021-10-15--2021-10-30
+---
+The Witcher 3: Wild Hunt - Game of the Year Edition--24.50--2022-02-01--2022-03-01
+---
+The Witcher 3: Wild Hunt - Game of the Year Edition--9.99--2022-05-01--2022-06-01
+
+---
+
+Elden Ring--44.50--2022-04-01--2022-05-01
+---
+Elden Ring--19.99--2022-05-15--2022-06-12
+
+---
+
+Elden Ring Deluxe Edition--64.50--2022-04-01--2022-05-01
+---
+Elden Ring Deluxe Edition--59.99--2022-05-15--2022-06-12
+---
+Elden Ring Deluxe Edition--39.99--2022-08-15--2022-09-01
+
+---
+
+Days Gone--39.99--2021-10-15--2021-10-30
+---
+Days Gone--24.50--2022-02-01--2022-03-01
+---
+Days Gone--19.99--2022-05-01--2022-06-01
+
+---
+
+Grand Theft Auto V--14.99--2015-11-01--2015-12-01
+---
+Grand Theft Auto V--9.99--2016-06-15--2016-07-01
+---
+Grand Theft Auto V--13.99--2016-09-01--2016-10-01
+---
+Grand Theft Auto V--11.99--2017-02-01--2017-03-01
+---
+Grand Theft Auto V--9.99--2017-06-15--2017-07-01
+---
+Grand Theft Auto V--4.99--2017-09-01--2017-10-01
+---
+Grand Theft Auto V--14.99--2018-06-14--2018-07-30
+---
+Grand Theft Auto V--11.99--2018-12-01--2018-12-23
+---
+Grand Theft Auto V--7.99--2019-05-01--2019-06-15
+---
+Grand Theft Auto V--16.99--2019-08-15--2019-08-24
+---
+Grand Theft Auto V--13.99--2020-02-01--2020-03-01
+---
+Grand Theft Auto V--10.99--2020-04-17--2020-04-24
+---
+Grand Theft Auto V--9.99--2020-08-01--2020-09-01
+---
+Grand Theft Auto V--4.99--2021-01-01--2021-01-15
+---
+Grand Theft Auto V--5.99--2021-06-01--2021-03-01
+---
+Grand Theft Auto V--9.99--2021-10-15--2021-10-30
+---
+Grand Theft Auto V--6.50--2022-02-01--2022-03-01
+---
+Grand Theft Auto V--9.99--2022-05-01--2022-06-01
+
+---
+
+Sekiro: Shadows Die Twice - GOTY Edition--49.99--2020-02-01--2020-03-01
+---
+Sekiro: Shadows Die Twice - GOTY Edition--29.99--2020-04-17--2020-04-24
+---
+Sekiro: Shadows Die Twice - GOTY Edition--39.99--2020-08-01--2020-09-01
+---
+Sekiro: Shadows Die Twice - GOTY Edition--40.99--2021-01-01--2021-01-15
+---
+Sekiro: Shadows Die Twice - GOTY Edition--17.99--2021-06-01--2021-03-01
+---
+Sekiro: Shadows Die Twice - GOTY Edition--24.99--2021-10-15--2021-10-30
+---
+Sekiro: Shadows Die Twice - GOTY Edition--19.99--2022-02-01--2022-03-01
+---
+Sekiro: Shadows Die Twice - GOTY Edition--9.99--2022-05-01--2022-06-01
+
+---
+
+Call of Duty: Black Ops III--29.99--2016-06-15--2016-07-01
+---
+Call of Duty: Black Ops III--13.99--2016-09-01--2016-10-01
+---
+Call of Duty: Black Ops III--19.99--2017-02-01--2017-03-01
+---
+Call of Duty: Black Ops III--29.99--2017-06-15--2017-07-01
+---
+Call of Duty: Black Ops III--24.99--2017-09-01--2017-10-01
+---
+Call of Duty: Black Ops III--34.99--2018-06-14--2018-07-30
+---
+Call of Duty: Black Ops III--11.99--2018-12-01--2018-12-23
+---
+Call of Duty: Black Ops III--17.99--2019-05-01--2019-06-15
+---
+Call of Duty: Black Ops III--26.99--2019-08-15--2019-08-24
+---
+Call of Duty: Black Ops III--23.99--2020-02-01--2020-03-01
+---
+Call of Duty: Black Ops III--10.99--2020-04-17--2020-04-24
+---
+Call of Duty: Black Ops III--9.99--2020-08-01--2020-09-01
+---
+Call of Duty: Black Ops III--17.99--2021-01-01--2021-01-15
+---
+Call of Duty: Black Ops III--19.99--2021-06-01--2021-03-01
+---
+Call of Duty: Black Ops III--9.99--2021-10-15--2021-10-30
+---
+Call of Duty: Black Ops III--16.50--2022-02-01--2022-03-01
+---
+Call of Duty: Black Ops III--19.99--2022-05-01--2022-06-01
+
+---
+
+Call of Duty: Black Ops III - Zombies Chronicles--19.99--2016-06-15--2016-07-01
+---
+Call of Duty: Black Ops III - Zombies Chronicles--13.99--2016-09-01--2016-10-01
+---
+Call of Duty: Black Ops III - Zombies Chronicles--19.99--2017-02-01--2017-03-01
+---
+Call of Duty: Black Ops III - Zombies Chronicles--9.99--2017-06-15--2017-07-01
+---
+Call of Duty: Black Ops III - Zombies Chronicles--24.99--2017-09-01--2017-10-01
+---
+Call of Duty: Black Ops III - Zombies Chronicles--24.99--2018-06-14--2018-07-30
+---
+Call of Duty: Black Ops III - Zombies Chronicles--11.99--2018-12-01--2018-12-23
+---
+Call of Duty: Black Ops III - Zombies Chronicles--17.99--2019-05-01--2019-06-15
+---
+Call of Duty: Black Ops III - Zombies Chronicles--26.99--2019-08-15--2019-08-24
+---
+Call of Duty: Black Ops III - Zombies Chronicles--23.99--2020-02-01--2020-03-01
+---
+Call of Duty: Black Ops III - Zombies Chronicles--10.99--2020-04-17--2020-04-24
+---
+Call of Duty: Black Ops III - Zombies Chronicles--9.99--2020-08-01--2020-09-01
+---
+Call of Duty: Black Ops III - Zombies Chronicles--17.99--2021-01-01--2021-01-15
+---
+Call of Duty: Black Ops III - Zombies Chronicles--19.99--2021-06-01--2021-03-01
+---
+Call of Duty: Black Ops III - Zombies Chronicles--9.99--2021-10-15--2021-10-30
+---
+Call of Duty: Black Ops III - Zombies Chronicles--16.50--2022-02-01--2022-03-01
+---
+Call of Duty: Black Ops III - Zombies Chronicles--19.99--2022-05-01--2022-06-01
+
+---
+
+Red Dead Redemption 2--43.99--2020-02-01--2020-03-01
+---
+Red Dead Redemption 2--40.99--2020-04-17--2020-04-24
+---
+Red Dead Redemption 2--29.99--2020-08-01--2020-09-01
+---
+Red Dead Redemption 2--37.99--2021-01-01--2021-01-15
+---
+Red Dead Redemption 2--29.99--2021-06-01--2021-03-01
+---
+Red Dead Redemption 2--39.99--2021-10-15--2021-10-30
+---
+Red Dead Redemption 2--16.50--2022-02-01--2022-03-01
+---
+Red Dead Redemption 2--29.99--2022-05-01--2022-06-01
+
+---
+
+Red Dead Redemption 2 Ultimate Edititon--63.99--2020-02-01--2020-03-01
+---
+Red Dead Redemption 2 Ultimate Edititon--70.99--2020-04-17--2020-04-24
+---
+Red Dead Redemption 2 Ultimate Edititon--79.99--2020-08-01--2020-09-01
+---
+Red Dead Redemption 2 Ultimate Edititon--67.99--2021-01-01--2021-01-15
+---
+Red Dead Redemption 2 Ultimate Edititon--49.99--2021-06-01--2021-03-01
+---
+Red Dead Redemption 2 Ultimate Edititon--29.99--2021-10-15--2021-10-30
+---
+Red Dead Redemption 2 Ultimate Edititon--36.50--2022-02-01--2022-03-01
+---
+Red Dead Redemption 2 Ultimate Edititon--19.99--2022-05-01--2022-06-01
+
+---
+
+Rust--34.99--2018-06-14--2018-07-30
+---
+Rust--11.99--2018-12-01--2018-12-23
+---
+Rust--17.99--2019-05-01--2019-06-15
+---
+Rust--26.99--2019-08-15--2019-08-24
+---
+Rust--23.99--2020-02-01--2020-03-01
+---
+Rust--10.99--2020-04-17--2020-04-24
+---
+Rust--9.99--2020-08-01--2020-09-01
+---
+Rust--17.99--2021-01-01--2021-01-15
+---
+Rust--19.99--2021-06-01--2021-03-01
+---
+Rust--9.99--2021-10-15--2021-10-30
+---
+Rust--16.50--2022-02-01--2022-03-01
+---
+Rust--19.99--2022-05-01--2022-06-01
+
+---
+
+Stray--14.99--2022-08-01--2022-09-01
+
+---
+
+Stray - Soundtrack Edition--29.99--2022-08-01--2022-09-01
+
+---
+
+Cuphead--14.99--2018-06-14--2018-07-30
+---
+Cuphead--11.99--2018-12-01--2018-12-23
+---
+Cuphead--7.99--2019-05-01--2019-06-15
+---
+Cuphead--16.99--2019-08-15--2019-08-24
+---
+Cuphead--13.99--2020-02-01--2020-03-01
+---
+Cuphead--10.99--2020-04-17--2020-04-24
+---
+Cuphead--9.99--2020-08-01--2020-09-01
+---
+Cuphead--4.99--2021-01-01--2021-01-15
+---
+Cuphead--5.99--2021-06-01--2021-03-01
+---
+Cuphead--9.99--2021-10-15--2021-10-30
+---
+Cuphead--6.50--2022-02-01--2022-03-01
+---
+Cuphead--9.99--2022-05-01--2022-06-01
+
+---
+
+Cuphead - Game & Soundtrack Bundle--24.99--2018-06-14--2018-07-30
+---
+Cuphead - Game & Soundtrack Bundle--21.99--2018-12-01--2018-12-23
+---
+Cuphead - Game & Soundtrack Bundle--27.99--2019-05-01--2019-06-15
+---
+Cuphead - Game & Soundtrack Bundle--16.99--2019-08-15--2019-08-24
+---
+Cuphead - Game & Soundtrack Bundle--23.99--2020-02-01--2020-03-01
+---
+Cuphead - Game & Soundtrack Bundle--19.99--2020-04-17--2020-04-24
+---
+Cuphead - Game & Soundtrack Bundle--9.99--2020-08-01--2020-09-01
+---
+Cuphead - Game & Soundtrack Bundle--14.99--2021-01-01--2021-01-15
+---
+Cuphead - Game & Soundtrack Bundle--15.99--2021-06-01--2021-03-01
+---
+Cuphead - Game & Soundtrack Bundle--19.99--2021-10-15--2021-10-30
+---
+Cuphead - Game & Soundtrack Bundle--16.50--2022-02-01--2022-03-01
+---
+Cuphead - Game & Soundtrack Bundle--9.99--2022-05-01--2022-06-01
+
+---
+
+Cities: Skylines--22.99--2015-11-01--2015-12-01
+---
+Cities: Skylines--19.99--2016-06-15--2016-07-01
+---
+Cities: Skylines--19.99--2016-09-01--2016-10-01
+---
+Cities: Skylines--17.99--2017-02-01--2017-03-01
+---
+Cities: Skylines--19.99--2017-06-15--2017-07-01
+---
+Cities: Skylines--14.99--2017-09-01--2017-10-01
+---
+Cities: Skylines--14.99--2018-06-14--2018-07-30
+---
+Cities: Skylines--21.99--2018-12-01--2018-12-23
+---
+Cities: Skylines--9.99--2019-05-01--2019-06-15
+---
+Cities: Skylines--7.99--2019-08-15--2019-08-24
+---
+Cities: Skylines--19.99--2020-02-01--2020-03-01
+---
+Cities: Skylines--10.99--2020-04-17--2020-04-24
+---
+Cities: Skylines--9.99--2020-08-01--2020-09-01
+---
+Cities: Skylines--14.99--2021-01-01--2021-01-15
+---
+Cities: Skylines--9.99--2021-06-01--2021-03-01
+---
+Cities: Skylines--19.99--2021-10-15--2021-10-30
+---
+Cities: Skylines--14.50--2022-02-01--2022-03-01
+---
+Cities: Skylines--9.99--2022-05-01--2022-06-01
+
+---
+
+Stranded Deep--9.99--2022-09-01--2022-09-12
+
+---
+
+The Forest--11.99--2018-12-01--2018-12-23
+---
+The Forest--9.99--2019-05-01--2019-06-15
+---
+The Forest--7.99--2019-08-15--2019-08-24
+---
+The Forest--9.99--2020-02-01--2020-03-01
+---
+The Forest--10.99--2020-04-17--2020-04-24
+---
+The Forest--9.99--2020-08-01--2020-09-01
+---
+The Forest--14.99--2021-01-01--2021-01-15
+---
+The Forest--9.99--2021-06-01--2021-03-01
+---
+The Forest--9.99--2021-10-15--2021-10-30
+---
+The Forest--14.50--2022-02-01--2022-03-01
+---
+The Forest--9.99--2022-05-01--2022-06-01
+
+---
+
+Subnautica--21.99--2018-12-01--2018-12-23
+---
+Subnautica--19.99--2019-05-01--2019-06-15
+---
+Subnautica--17.99--2019-08-15--2019-08-24
+---
+Subnautica--9.99--2020-02-01--2020-03-01
+---
+Subnautica--20.99--2020-04-17--2020-04-24
+---
+Subnautica--9.99--2020-08-01--2020-09-01
+---
+Subnautica--24.99--2021-01-01--2021-01-15
+---
+Subnautica--9.99--2021-06-01--2021-03-01
+---
+Subnautica--19.99--2021-10-15--2021-10-30
+---
+Subnautica--14.50--2022-02-01--2022-03-01
+---
+Subnautica--9.99--2022-05-01--2022-06-01
+
+---
+
+Subnautica: Below Zero--19.99--2021-06-01--2021-08-01
+---
+Subnautica: Below Zero--11.99--2021-10-15--2021-10-30
+---
+Subnautica: Below Zero--14.50--2022-02-01--2022-03-01
+---
+Subnautica: Below Zero--9.99--2022-05-01--2022-06-01
+
+---
+
+Subnautica Deep Ocean Bundle--49.99--2021-05-01--2021-06-01
+---
+Subnautica Deep Ocean Bundle--37.99--2021-10-15--2021-10-30
+---
+Subnautica Deep Ocean Bundle--24.50--2022-02-01--2022-03-01
+---
+Subnautica Deep Ocean Bundle--31.99--2022-05-01--2022-06-01
+
+---
+
+MADiSON--24.50--2022-08-01--2022-08-15
+---
+MADiSON--31.99--2022-09-01--2022-09-11
+
+---
+
+Dead by Daylight--16.99--2017-06-15--2017-07-01
+---
+Dead by Daylight--14.99--2017-09-01--2017-10-01
+---
+Dead by Daylight--14.99--2018-06-14--2018-07-30
+---
+Dead by Daylight--11.99--2018-12-01--2018-12-23
+---
+Dead by Daylight--9.99--2019-05-01--2019-06-15
+---
+Dead by Daylight--7.99--2019-08-15--2019-08-24
+---
+Dead by Daylight--9.99--2020-02-01--2020-03-01
+---
+Dead by Daylight--10.99--2020-04-17--2020-04-24
+---
+Dead by Daylight--9.99--2020-08-01--2020-09-01
+---
+Dead by Daylight--14.99--2021-01-01--2021-01-15
+---
+Dead by Daylight--9.99--2021-06-01--2021-03-01
+---
+Dead by Daylight--7.99--2021-10-15--2021-10-30
+---
+Dead by Daylight--14.50--2022-02-01--2022-03-01
+---
+Dead by Daylight--9.99--2022-05-01--2022-06-01
+
+---
+
+Dead by Daylight: Ultimate Edition--56.99--2017-06-15--2017-07-01
+---
+Dead by Daylight: Ultimate Edition--44.99--2017-09-01--2017-10-01
+---
+Dead by Daylight: Ultimate Edition--64.99--2018-06-14--2018-07-30
+---
+Dead by Daylight: Ultimate Edition--31.99--2018-12-01--2018-12-23
+---
+Dead by Daylight: Ultimate Edition--49.99--2019-05-01--2019-06-15
+---
+Dead by Daylight: Ultimate Edition--57.99--2019-08-15--2019-08-24
+---
+Dead by Daylight: Ultimate Edition--49.99--2020-02-01--2020-03-01
+---
+Dead by Daylight: Ultimate Edition--30.99--2020-04-17--2020-04-24
+---
+Dead by Daylight: Ultimate Edition--19.99--2020-08-01--2020-09-01
+---
+Dead by Daylight: Ultimate Edition--34.99--2021-01-01--2021-01-15
+---
+Dead by Daylight: Ultimate Edition--29.99--2021-06-01--2021-03-01
+---
+Dead by Daylight: Ultimate Edition--17.99--2021-10-15--2021-10-30
+---
+Dead by Daylight: Ultimate Edition--28.50--2022-02-01--2022-03-01
+---
+Dead by Daylight: Ultimate Edition--19.99--2022-05-01--2022-06-01
+
+---
+
+Resident Evil Village--29.99--2021-06-01--2021-07-01
+---
+Resident Evil Village--21.99--2021-10-15--2021-10-30
+---
+Resident Evil Village--14.50--2022-02-01--2022-03-01
+---
+Resident Evil Village--19.99--2022-05-01--2022-06-01
+
+---
+
+Resident Evil 7 Biohazard--16.99--2017-06-15--2017-07-01
+---
+Resident Evil 7 Biohazard--14.99--2017-09-01--2017-10-01
+---
+Resident Evil 7 Biohazard--14.99--2018-06-14--2018-07-30
+---
+Resident Evil 7 Biohazard--11.99--2018-12-01--2018-12-23
+---
+Resident Evil 7 Biohazard--9.99--2019-05-01--2019-06-15
+---
+Resident Evil 7 Biohazard--7.99--2019-08-15--2019-08-24
+---
+Resident Evil 7 Biohazard--9.99--2020-02-01--2020-03-01
+---
+Resident Evil 7 Biohazard--10.99--2020-04-17--2020-04-24
+---
+Resident Evil 7 Biohazard--9.99--2020-08-01--2020-09-01
+---
+Resident Evil 7 Biohazard--14.99--2021-01-01--2021-01-15
+---
+Resident Evil 7 Biohazard--9.99--2021-06-01--2021-03-01
+---
+Resident Evil 7 Biohazard--7.99--2021-10-15--2021-10-30
+---
+Resident Evil 7 Biohazard--14.50--2022-02-01--2022-03-01
+---
+Resident Evil 7 Biohazard--9.99--2022-05-01--2022-06-01
+
+---
+
+Resident Evil 4--14.99--2015-11-01--2015-12-01
+---
+Resident Evil 4--9.99--2016-06-15--2016-07-01
+---
+Resident Evil 4--13.99--2016-09-01--2016-10-01
+---
+Resident Evil 4--11.99--2017-02-01--2017-03-01
+---
+Resident Evil 4--9.99--2017-06-15--2017-07-01
+---
+Resident Evil 4--4.99--2017-09-01--2017-10-01
+---
+Resident Evil 4--14.99--2018-06-14--2018-07-30
+---
+Resident Evil 4--11.99--2018-12-01--2018-12-23
+---
+Resident Evil 4--7.99--2019-05-01--2019-06-15
+---
+Resident Evil 4--16.99--2019-08-15--2019-08-24
+---
+Resident Evil 4--13.99--2020-02-01--2020-03-01
+---
+Resident Evil 4--10.99--2020-04-17--2020-04-24
+---
+Resident Evil 4--9.99--2020-08-01--2020-09-01
+---
+Resident Evil 4--4.99--2021-01-01--2021-01-15
+---
+Resident Evil 4--5.99--2021-06-01--2021-03-01
+---
+Resident Evil 4--9.99--2021-10-15--2021-10-30
+---
+Resident Evil 4--6.50--2022-02-01--2022-03-01
+---
+Resident Evil 4--9.99--2022-05-01--2022-06-01
+
+---
+
+Resident Evil 2--29.99--2019-05-01--2019-06-15
+---
+Resident Evil 2--17.99--2019-08-15--2019-08-24
+---
+Resident Evil 2--9.99--2020-02-01--2020-03-01
+---
+Resident Evil 2--20.99--2020-04-17--2020-04-24
+---
+Resident Evil 2--9.99--2020-08-01--2020-09-01
+---
+Resident Evil 2--24.99--2021-01-01--2021-01-15
+---
+Resident Evil 2--19.99--2021-06-01--2021-03-01
+---
+Resident Evil 2--17.99--2021-10-15--2021-10-30
+---
+Resident Evil 2--14.50--2022-02-01--2022-03-01
+---
+Resident Evil 2--9.99--2022-05-01--2022-06-01
+
+---
+
+Resident Evil 3--20.99--2020-04-17--2020-04-24
+---
+Resident Evil 3--9.99--2020-08-01--2020-09-01
+---
+Resident Evil 3--24.99--2021-01-01--2021-01-15
+---
+Resident Evil 3--19.99--2021-06-01--2021-03-01
+---
+Resident Evil 3--17.99--2021-10-15--2021-10-30
+---
+Resident Evil 3--14.50--2022-02-01--2022-03-01
+---
+Resident Evil 3--9.99--2022-05-01--2022-06-01
+
+
+
+
+
+
+
+
+
+

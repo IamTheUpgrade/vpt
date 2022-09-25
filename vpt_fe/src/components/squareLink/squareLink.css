@@ -1,0 +1,32 @@
+.square-link-container {
+    color: #505050;
+    text-align: center;
+    font-size: 30px;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 20px;
+    font-weight: 700;
+    padding: 10px;
+    width: 280px;
+    margin: 50px 1vw;
+    /* background-color: aqua; */
+}
+
+@media only screen and (max-width: 768px) {
+
+    .square-link-container {
+        width: 200px;
+        font-size: 20px;
+    }
+
+}
+
+@media only screen and (max-width: 600px) {
+
+    .square-link-container {
+        width: 120px;
+        font-size: 15px;
+        margin: 10px 1vw;
+    }
+  
+}

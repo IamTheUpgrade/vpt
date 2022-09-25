@@ -1,0 +1,69 @@
+#main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 100px 10% 0;
+    justify-content: center;
+}
+
+.icon {
+    color: #505050;
+    font-size: 75px;
+    font-weight: 600;
+    width: 150px;
+    height: 150px;
+    border-radius: 20px;
+    padding-top: 35px;
+}
+
+#icon-all {
+    background-color: rgb(127, 192, 252);
+
+}
+
+#icon-percent {
+    background-color: rgb(255, 231, 94);
+}
+
+#icon-free {
+    background-color: rgb(250, 129, 244);
+}
+
+#icon-low {
+    background-color: rgb(255, 80, 80);
+}
+
+#icon-huge {
+    background-color: rgb(255, 165, 80);
+}
+
+#icon-last {
+    background-color: rgb(104, 255, 117);
+}
+
+#icon-windows {
+    background-color: rgb(70, 118, 252);
+}
+
+#icon-macOS {
+    background-color: rgb(196, 196, 196);
+}
+
+@media only screen and (max-width: 600px) {
+
+    #main {
+        padding: 50px 5% 0;
+        justify-content: center;
+    }
+    
+    .icon {
+        color: #505050;
+        font-size: 25px;
+        font-weight: 600;
+        width: 60px;
+        height: 60px;
+        border-radius: 10px;
+        padding-top: 15px;
+    }
+  
+}

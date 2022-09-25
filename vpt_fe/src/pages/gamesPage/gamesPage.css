@@ -1,0 +1,26 @@
+main {
+    padding: 0 10%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 70px;
+
+}
+
+#gamesPage-noGames {
+    font-size: 30px;
+    margin: 70px 0;
+}
+
+@media only screen and (max-width: 600px) {
+
+    main {
+        padding: 70px 5% 0;
+    }
+
+    #gamesPage-noGames {
+        font-size: 20px;
+        margin: 100px 0;
+    }
+
+}
